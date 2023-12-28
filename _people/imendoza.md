@@ -1,6 +1,6 @@
 ---
 title: "Ismael Mendoza"
-excerpt: "ALCCA PhD Student<br/><img src='/images/imendoza_headshot.jpg'>"
+excerpt: "ALCCA PhD Student<br/><img src='/images/imendoza_headshot.jpg' width='300'>"
 collection: people
 ---
 
