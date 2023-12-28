@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Avestruz Lab for Computational Cosmology and Astrophysics"
-excerpt: "About me"
+title: "About"
+excerpt: "About ALCCA"
 author_profile: true
 redirect_from: 
   - /about/
