@@ -1,6 +1,6 @@
 ---
 title: "David Robinson"
-excerpt: "ALCCA PhD Student<br/><img src='/images/drobinson_headshot.jpg'>"
+excerpt: "ALCCA PhD Student<br/><img src='/images/drobinson_headshot.JPG'>"
 collection: people
 ---
 
