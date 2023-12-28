@@ -1,6 +1,6 @@
 ---
 title: "Ismael Mendoza"
-excerpt: "ALCCA PhD Student<br/><img src='/images/imendoza_headshot.jpg' width='275'>"
+excerpt: "PhD Student: My research focuses in developing novel statistical techniques to solve problems in cosmology.<br/><img src='/images/imendoza_headshot.jpg' width='275'>"
 collection: people
 ---
 
