@@ -17,12 +17,12 @@ Employment
   * [Applied Physics](https://lsa.umich.edu/appliedphysics/people/faculty/cavestru.html) Faculty
 
 * 2019-2020: Postdoctoral Research Fellow, University of Michigan
-  * LSA Collegiate Fellow
+  * [LSA Collegiate Fellow](https://lsa.umich.edu/lsa/dei/lsa-collegiate-postdoctoral-fellowship-program.html)
     
 * 2015-2019: Postdoctoral Research Fellow, University of Chicago
   * Provost's Postdoctoral Fellow (2015-2017)
-  * Enrico Fermi Postdoctoral Fellow (2015-2019)
-  * Kavli Institute for Cosmological Physics Fellow (2015-2019)
+  * [Enrico Fermi Institute](https://efi.uchicago.edu/) Postdoctoral Fellow (2015-2019)
+  * [Kavli Institute for Cosmological Physics](https://kavlicosmo.uchicago.edu/) Fellow (2015-2019)
 
 Education
 ======
