@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "research"
+title: "ALCCA Research"
 permalink: /research/
 author_profile: true
 redirect_from:
