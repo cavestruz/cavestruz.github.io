@@ -1,6 +1,6 @@
 ---
 title: "Kuan Wang"
-excerpt: "Leinweber Postdoctoral Fellow<br/><img src='/images/kwang_headshot.jpg'>"
+excerpt: "Leinweber Postdoctoral Fellow: I investigate the evolution of dark matter halos, the galaxy–halo connection, and the cosmological model.<br/><img src='/images/kwang_headshot.jpg'>"
 collection: people
 ---
 
