@@ -4,4 +4,11 @@ excerpt: "Undergraduate Student.<br/><img src='/images/chihan_headshot.jpg' widt
 collection: people
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## About me
+I'm studying for B.S. degrees in Physics, Astronomy & Astrophysics, and Mathematics, with expected graduation in May 2024. In my spare time, I enjoy long-distance running, camping, playing soccer and playing Japanese mahjong.  Please visit my personal website [here](https://suzutsuki-ch.github.io/).
+
+## Research interests
+My research covers topics in stellar astrophysics and cosmology, instructed by Prof. John Monnier, Prof. Camille Avestruz, Dr. Tyler Gardner, and Dr. Kuan Wang.
+
+## News
+
