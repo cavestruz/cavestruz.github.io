@@ -27,7 +27,8 @@ Employment
 
 Education
 =======
-* B.A. in Physics, Mathematics, and Dance, Barnard College, 2009
 * Ph.D in Physics, Yale University, 2015
+* B.A. in Physics, Mathematics, and Dance, Barnard College, 2009
+
 
 Full CV [here](https://www.overleaf.com/read/vjbtwddpmnrs#edcc1d)  
