@@ -1,6 +1,6 @@
 ---
 title: "Chi Han"
-excerpt: "Undergraduate Student.<br/><img src='/images/chihan_headshot.jpg'>"
+excerpt: "Undergraduate Student.<br/><img src='/images/chihan_headshot.jpg' width='275'>"
 collection: people
 ---
 
