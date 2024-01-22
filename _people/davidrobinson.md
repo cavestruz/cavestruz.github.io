@@ -1,6 +1,6 @@
 ---
 title: "David Robinson"
-excerpt: "PhD Student: I’m a Ph.D. candidate in physics at the University of Michigan, in the Avestruz Lab for Computational Cosmology and Astrophysics. I study how incident radiation affects the cooling and heating of gas in galaxies, using machine learning and hydrodynamic simulations.<br/><img src='/images/drobins_headshot.png' width='275'>"
+excerpt: "PhD Student: I’m a Ph.D. candidate in physics at the University of Michigan, in the Avestruz Lab for Computational Cosmology and Astrophysics. I study how incident radiation affects the cooling and heating of gas in galaxies, using machine learning and hydrodynamic simulations.<br/><img src='/images/dbrobins_headshot.png' width='275'>"
 collection: people
 ---
 
